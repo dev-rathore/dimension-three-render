@@ -1,0 +1,13 @@
+.model > div {
+  background: rgb(248, 250, 252);
+  border-radius: 5px;
+  color: rgb(0, 0, 0);
+  font-family: "Oswald", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  overflow: hidden;
+  padding: 10px 14px;
+  position: absolute;
+  user-select: none;
+  white-space: nowrap;
+}
