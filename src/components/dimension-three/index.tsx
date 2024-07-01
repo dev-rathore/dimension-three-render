@@ -11,6 +11,7 @@ const DimensionThree: React.FC = () => {
   return (
     <div className="canvas-block">
       <Canvas
+        shadows
         dpr={1}
         gl={{
           antialias: true,

@@ -26,7 +26,7 @@ const ThreeDModels: React.FC<ModelProps> = () => {
       <OrbitControls
         maxDistance={12}
         maxPolarAngle={Math.PI / 2}
-        minDistance={2}
+        minDistance={0.5}
         minPolarAngle={Math.PI / 4}
       />
       <directionalLight
